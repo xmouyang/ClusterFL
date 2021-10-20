@@ -40,3 +40,34 @@ The program has been tested in the following environment:
 ```
 
 <br>
+
+# Run
+## Quick Start
+* Download the `dataset` folders (collected by ourself) from [FL-Datasets-for-HAR](https://github.com/xmouyang/FL-Datasets-for-HAR) 
+* Change the "read-path" in 'data_pre.py' to the folder of above dataset on your client machine.
+* Change the "server_addr" and "server_port" in 'client_cfmtl.py' as your true server address. 
+* Run the following code on the client machine
+    ```bash
+    cd client
+    ./desk_run_test.sh
+    ```
+* Run the following code on the server machine
+    ```bash
+    cd server
+    python3 server_cfmtl.py
+    ```
+    ---
+
+# Citation
+If you find this work or the datasets useful for your research, please cite:
+    ```bash
+    @inproceedings{ouyang2021clusterfl,
+  title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
+  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
+  booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
+  pages={54--66},
+  year={2021}
+}
+    ```
+    ---
+    
