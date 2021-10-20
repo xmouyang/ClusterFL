@@ -15,7 +15,7 @@ The program has been tested in the following environment:
 
 # ClusterFL Overview
 <p align="center" >
-	<img src="https://github.com/xmouyang/ClusterFL/blob/main/figures/ClusterFL-system-overview.pdf" width="1000">
+	<img src="https://github.com/xmouyang/ClusterFL/blob/main/figures/ClusterFL-system-overview.png" width="1000">
 </p>
 
 # Project Strcuture
