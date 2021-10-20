@@ -15,7 +15,7 @@ The program has been tested in the following environment:
 
 # ClusterFL Overview
 <p align="center" >
-	<img src="./figures/ClusterFL-system-overview.pdf" width="1000">
+	<img src="https://github.com/xmouyang/ClusterFL/blob/main/figures/ClusterFL-system-overview.pdf" width="1000">
 </p>
 
 # Project Strcuture
@@ -39,7 +39,7 @@ The program has been tested in the following environment:
 
 # Run
 ## Quick Start
-* Download the `dataset` folders (collected by ourself) from [FL-Datasets-for-HAR](https://github.com/xmouyang/FL-Datasets-for-HAR) 
+* Download the `dataset` folders (collected by ourself) from [FL-Datasets-for-HAR](https://github.com/xmouyang/FL-Datasets-for-HAR) to your client machine.
 * Change the "read-path" in 'data_pre.py' to the folder of above dataset on your client machine.
 * Change the "server_addr" and "server_port" in 'client_cfmtl.py' as your true server address. 
 * Run the following code on the client machine
