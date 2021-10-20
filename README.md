@@ -1,5 +1,5 @@
 # ClusterFL
-This is the repo for MobiSys 2021 paper: "ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition".
+This is the repo for MobiSys 2021 paper: "<a href="https://dl.acm.org/doi/10.1145/3458864.3467681"> ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition </a>".
 <br>
 
 # Requirements
