@@ -20,3 +20,23 @@ The program has been tested in the following environment:
 <p align="center" >
 	<img src="./figures/ClusterFL-system-overview.pdf" width="1000">
 </p>
+
+# Project Strcuture
+```
+|-- client                    // code in client side
+    |-- client_cfmtl.py/	// main file of client 
+    |-- communication.py/	// set up communication with server
+    |-- data_pre.py/		// prepare for the FL data
+    |-- model_alex_full.py/ 	// model on client 
+    |-- desk_run_test.sh/	// run client 
+
+|-- server/    // code in server side
+    |-- server_cfmtl.py/        // main file of client
+    |-- server_model_alex_full.py/ // model on server 
+
+|-- README.md
+
+|-- pictures               // figures used this README.md
+```
+
+<br>
