@@ -18,8 +18,13 @@ The program has been tested in the following environment:
 	<img src="https://github.com/xmouyang/ClusterFL/blob/main/figures/ClusterFL-system-overview.png" width="500">
 </p>
 
-* ClusterFL on client: do local training with the collabrative learning variables and communicate with the server.
-* ClusterFL on server: recieve model weights from the clients, learn the relationship of clients, update the collabrative learning variables and send them to each client.
+* ClusterFL on client: 
+	* do local training with the collabrative learning variables;
+	* communicate with the server.
+* ClusterFL on server: 
+	* recieve model weights from the clients;
+	* learn the relationship of clients;
+	* update the collabrative learning variables and send them to each client.
 
 
 # Project Strcuture
