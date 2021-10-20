@@ -1,6 +1,5 @@
 # ClusterFL
 This is the repo for MobiSys 2021 paper: "ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition".
-
 <br>
 
 # Requirements
@@ -12,11 +11,9 @@ The program has been tested in the following environment:
 * opencv-python 4.2.0
 * Keras-python 2.3.1
 * numpy 1.19.5
-
 <br>
 
 # ClusterFL Overview
-
 <p align="center" >
 	<img src="./figures/ClusterFL-system-overview.pdf" width="1000">
 </p>
@@ -38,7 +35,6 @@ The program has been tested in the following environment:
 
 |-- pictures               // figures used this README.md
 ```
-
 <br>
 
 # Run
@@ -62,12 +58,12 @@ The program has been tested in the following environment:
 If you find this work or the datasets useful for your research, please cite:
     ```bash
     @inproceedings{ouyang2021clusterfl,
-  title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
-  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
-  booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
-  pages={54--66},
-  year={2021}
-}
+    title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
+    author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
+    booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
+    pages={54--66},
+    year={2021}
+    }
     ```
     ---
     
