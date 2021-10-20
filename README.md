@@ -55,15 +55,14 @@ The program has been tested in the following environment:
     ---
 
 # Citation
-If you find this work or the datasets useful for your research, please cite:
-    ```bash
-    @inproceedings{ouyang2021clusterfl,
-    title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
-    author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
-    booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
-    pages={54--66},
-    year={2021}
-    }
-    ```
-    ---
+If you find this work or the datasets useful for your research, please cite this paper:
+```
+@inproceedings{ouyang2021clusterfl,
+  title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
+  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Huang, Jianwei and Xing, Guoliang},
+  booktitle={Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services},
+  pages={54--66},
+  year={2021}
+}
+```
     
