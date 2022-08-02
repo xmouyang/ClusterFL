@@ -64,7 +64,7 @@ The program has been tested in the following environment:
     ---
 
 # Citation
-The code and datasets of this project are made available for non-commercial, academic research only. If you would like to use the code or datasets of this project, please cite the following paper:
+The code and datasets of this project are made available for non-commercial, academic research only. If you would like to use the code or datasets of this project, please cite the following papers:
 ```
 @inproceedings{ouyang2021clusterfl,
   title={ClusterFL: a similarity-aware federated learning system for human activity recognition},
