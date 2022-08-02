@@ -1,5 +1,5 @@
 # ClusterFL
-This is the repo for MobiSys 2021 paper: "<a href="https://dl.acm.org/doi/10.1145/3458864.3467681"> ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition </a>".
+This is the repo for MobiSys 2021 paper: "<a href="https://dl.acm.org/doi/10.1145/3458864.3467681"> ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition </a>" and TOSN 2022 paper: "<a href="https://dl.acm.org/doi/10.1145/3458864.3467681"> ClusterFL: A Clustering-based Federated Learning System for Human Activity Recognition </a>".
 <br>
 
 # Requirements
@@ -75,3 +75,14 @@ The code and datasets of this project are made available for non-commercial, aca
 }
 ```
     
+```
+@article{ouyang2022clusterfl,
+  title={ClusterFL: a clustering-based federated learning system for human activity recognition}},
+  author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Xing, Guoliang and Huang, Jianwei},
+  journal={ACM Transactions on Sensor Networks (TOSN)},
+  volume={18},
+  number={4},
+  year={2022},
+  publisher={ACM New York, NY}
+}
+```
