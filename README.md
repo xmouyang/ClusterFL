@@ -80,8 +80,6 @@ The code and datasets of this project are made available for non-commercial, aca
   title={ClusterFL: a clustering-based federated learning system for human activity recognition}},
   author={Ouyang, Xiaomin and Xie, Zhiyuan and Zhou, Jiayu and Xing, Guoliang and Huang, Jianwei},
   journal={ACM Transactions on Sensor Networks (TOSN)},
-  volume={18},
-  number={4},
   year={2022},
   publisher={ACM New York, NY}
 }
