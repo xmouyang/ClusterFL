@@ -47,7 +47,7 @@ The program has been tested in the following environment:
 <br>
 
 # Quick Start
-* Download the `dataset` folders (collected by ourself) from [FL-Datasets-for-HAR](https://github.com/xmouyang/FL-Datasets-for-HAR) to your client machine.
+* Download the `dataset` folders (collected by ourselves) from [FL-Datasets-for-HAR](https://github.com/xmouyang/FL-Datasets-for-HAR) to your client machine.
 * Chooose one dataset from the above four datasets and change the "read-path" in 'data_pre.py' to the path on your client machine.
 * Change the 'server_x_test.txt' and 'server_y_test.txt' according to your chosen dataset, default as the one for "imu_data_7".
 * Change the "server_addr" and "server_port" in 'client_cfmtl.py' as your true server address. 
